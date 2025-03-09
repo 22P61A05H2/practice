@@ -5,3 +5,4 @@ def fact(n):
     else:
        return 1
 print(fact(n))
+print("Hello World")
